@@ -1,0 +1,7 @@
+{
+  "name": "usermanager-client-only",
+  "version": "3.3",
+  "description": "Der Userman als CO-Version / 13.04.2022",
+  "author": "Manuel Groh",
+  "dependencies": {}
+}
